@@ -1,0 +1,149 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cml.com" resolutions="1x,2x" timestamp="1528428234814">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3940717446" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="biyeji－bg@2x.png" crc="4135397393" seo="true" ref="index"/>
+    <file name="biyeji－bg@2x_2x.png" crc="128660844" seo="true" ref="index"/>
+    <file name="logo@2x.png" crc="439080790" seo="true" ref="index"/>
+    <file name="sousuo@2x.png" crc="473866774" seo="true" ref="index"/>
+    <file name="sousuo@2x_2x.png" crc="173873750" seo="true" ref="index"/>
+    <file name="biyeji@2x.png" crc="213245296" seo="true" ref="index"/>
+    <file name="biyeji@2x_2x.png" crc="235986463" seo="true" ref="index"/>
+    <file name="zuo－huawen@2x.png" crc="4089416707" seo="true" ref="index"/>
+    <file name="zuo－huawen@2x_2x.png" crc="4165427631" seo="true" ref="index"/>
+    <file name="u279-4.png" crc="4182718945" ref="index"/>
+    <file name="u279-4_2x.png" crc="138127692" ref="index"/>
+    <file name="u284-4.png" crc="4093477461" ref="index"/>
+    <file name="u284-4_2x.png" crc="333835382" ref="index"/>
+    <file name="u287-4.png" crc="6513609" ref="index"/>
+    <file name="u287-4_2x.png" crc="338540093" ref="index"/>
+    <file name="yaoqinghan@2x.png" crc="3950830446" seo="true" ref="index"/>
+    <file name="yaoqinghan@2x_2x.png" crc="4234943024" seo="true" ref="index"/>
+    <file name="zhaopin@2x.png" crc="3854182129" seo="true" ref="index"/>
+    <file name="zhaopin@2x_2x.png" crc="4030949775" seo="true" ref="index"/>
+    <file name="xuexiao@2x.png" crc="42970609" seo="true" ref="index"/>
+    <file name="xuexiao@2x_2x.png" crc="4159931021" seo="true" ref="index"/>
+    <file name="zhangxinyu@2x.png" crc="4005743797" seo="true" ref="index"/>
+    <file name="zhangxinyu@2x_2x.png" crc="196743395" seo="true" ref="index"/>
+    <file name="youxiubiyesheng－di@2x.png" crc="356106704" seo="true" ref="index"/>
+    <file name="youxiubiyesheng－di@2x_2x.png" crc="445131065" seo="true" ref="index"/>
+    <file name="fnb－bys@2x.png" crc="4029517" seo="true" ref="index"/>
+    <file name="fnb－bys@2x_2x.png" crc="4182621923" seo="true" ref="index"/>
+    <file name="wyy－bys@2x.png" crc="204159785" seo="true" ref="index"/>
+    <file name="wyy－bys@2x_2x.png" crc="3974361727" seo="true" ref="index"/>
+    <file name="lr－bys@2x.png" crc="349824069" seo="true" ref="index"/>
+    <file name="lr－bys@2x_2x.png" crc="443044635" seo="true" ref="index"/>
+    <file name="lzy－bys@2x.png" crc="21611761" seo="true" ref="index"/>
+    <file name="lzy－bys@2x_2x.png" crc="3979975394" seo="true" ref="index"/>
+    <file name="yjc－bys@2x.png" crc="198975173" seo="true" ref="index"/>
+    <file name="yjc－bys@2x_2x.png" crc="3884739192" seo="true" ref="index"/>
+    <file name="u290-4.png" crc="4088537427" ref="index"/>
+    <file name="u290-4_2x.png" crc="135365129" ref="index"/>
+    <file name="u293-4.png" crc="516068071" ref="index"/>
+    <file name="u293-4_2x.png" crc="4278515004" ref="index"/>
+    <file name="u296-4.png" crc="4000926362" ref="index"/>
+    <file name="u296-4_2x.png" crc="3764532818" ref="index"/>
+    <file name="cn@2x.png" crc="4149973683" seo="true" ref="index"/>
+    <file name="cn@2x_2x.png" crc="186404544" seo="true" ref="index"/>
+    <file name="you－huawen@2x.png" crc="4056881815" seo="true" ref="index"/>
+    <file name="you－huawen@2x_2x.png" crc="4046576691" seo="true" ref="index"/>
+    <file name="yanjiusheng@2x.jpg" crc="527670393" seo="true" ref="index"/>
+    <file name="yanjiusheng@2x_2x.jpg" crc="422558244" seo="true" ref="index"/>
+    <file name="benkesheng@2x.png" crc="4125994065" seo="true" ref="index"/>
+    <file name="benkesheng@2x_2x.png" crc="472351366" seo="true" ref="index"/>
+    <file name="dagou@2x.png" crc="3975587300" seo="true" ref="index"/>
+    <file name="you－tubiao@2x.png" crc="3932268051" seo="true" ref="index"/>
+    <file name="you－tubiao@2x_2x.png" crc="4055854433" seo="true" ref="index"/>
+    <file name="zuo－tubiao@2x-crop-u635.png" crc="511675090" ref="index"/>
+    <file name="zuo－tubiao@2x-crop-u635_2x.png" crc="4254184052" ref="index"/>
+    <file name="zuo－tubiao@2x-crop-u649.png" crc="511675090" ref="index"/>
+    <file name="zuo－tubiao@2x-crop-u649_2x.png" crc="4254184052" ref="index"/>
+    <file name="zuo－tubiao@2x.png" crc="330700982" seo="true" ref="index"/>
+    <file name="zuo－tubiao@2x_2x.png" crc="440085458" seo="true" ref="index"/>
+    <file name="you－tubiao@2x23x64.png" crc="4098720989" seo="true" ref="index"/>
+    <file name="you－tubiao@2x23x64_2x.png" crc="264727729" seo="true" ref="index"/>
+    <file name="enjoy－2@2x.png" crc="4002438194" seo="true" ref="index"/>
+    <file name="enjoy－2@2x_2x.png" crc="21489552" seo="true" ref="index"/>
+    <file name="enjoy－7@2x.png" crc="3901267687" seo="true" ref="index"/>
+    <file name="enjoy－7@2x_2x.png" crc="526405386" seo="true" ref="index"/>
+    <file name="enjoy－12@2x.png" crc="230775039" seo="true" ref="index"/>
+    <file name="enjoy－6@2x.png" crc="458166063" seo="true" ref="index"/>
+    <file name="enjoy－11@2x.png" crc="59903223" seo="true" ref="index"/>
+    <file name="enjoy－11@2x_2x.png" crc="82578723" seo="true" ref="index"/>
+    <file name="enjoy－5@2x.png" crc="312409134" seo="true" ref="index"/>
+    <file name="enjoy－5@2x_2x.png" crc="4007739514" seo="true" ref="index"/>
+    <file name="enjoy－10@2x.png" crc="365586585" seo="true" ref="index"/>
+    <file name="enjoy－10@2x_2x.png" crc="482213533" seo="true" ref="index"/>
+    <file name="enjoy－4@2x.png" crc="183678268" seo="true" ref="index"/>
+    <file name="enjoy－4@2x_2x.png" crc="3807488856" seo="true" ref="index"/>
+    <file name="enjoy－9@2x.png" crc="4187707972" seo="true" ref="index"/>
+    <file name="enjoy－9@2x_2x.png" crc="4169091234" seo="true" ref="index"/>
+    <file name="enjoy－3@2x.png" crc="3932979807" seo="true" ref="index"/>
+    <file name="enjoy－3@2x_2x.png" crc="3878199915" seo="true" ref="index"/>
+    <file name="enjoy－8@2x.png" crc="425798137" seo="true" ref="index"/>
+    <file name="enjoy－8@2x_2x.png" crc="4285099962" seo="true" ref="index"/>
+    <file name="enjoy－1@2x.png" crc="318799588" seo="true" ref="index"/>
+    <file name="enjoy－1@2x_2x.png" crc="69632120" seo="true" ref="index"/>
+    <file name="top@2x.png" crc="288332830" seo="true" ref="index"/>
+    <file name="top@2x_2x.png" crc="301725782" seo="true" ref="index"/>
+    <file name="line 3@2x.png" crc="33517953" seo="true" ref="index"/>
+    <file name="line 3@2x_2x.png" crc="3797757078" seo="true" ref="index"/>
+    <file name="nee－lj@2x.png" crc="4236226955" seo="true" ref="index"/>
+    <file name="nee－lj@2x_2x.png" crc="103229280" seo="true" ref="index"/>
+    <file name="art－lj@2x.png" crc="172242098" seo="true" ref="index"/>
+    <file name="art－lj@2x_2x.png" crc="393234159" seo="true" ref="index"/>
+    <file name="chsi－lj@2x.png" crc="161473510" seo="true" ref="index"/>
+    <file name="chsi－lj@2x_2x.png" crc="8277096" seo="true" ref="index"/>
+    <file name="jg－lj@2x.png" crc="4124487319" seo="true" ref="index"/>
+    <file name="jg－lj@2x_2x.png" crc="3956856835" seo="true" ref="index"/>
+    <file name="xd－lj@2x.png" crc="3786488819" seo="true" ref="index"/>
+    <file name="xd－lj@2x_2x.png" crc="3892502398" seo="true" ref="index"/>
+    <file name="xmrc－lj@2x.png" crc="4001038177" seo="true" ref="index"/>
+    <file name="xmrc－lj@2x_2x.png" crc="255888569" seo="true" ref="index"/>
+    <file name="u846-4.png" crc="4223340484" ref="index"/>
+    <file name="u846-4_2x.png" crc="443556001" ref="index"/>
+    <file name="u866-8.png" crc="107101551" ref="index"/>
+    <file name="u866-8_2x.png" crc="382264215" ref="index"/>
+    <file name="u869-6.png" crc="4155273726" ref="index"/>
+    <file name="u869-6_2x.png" crc="3788941434" ref="index"/>
+    <file name="u872-6.png" crc="3913673840" ref="index"/>
+    <file name="u872-6_2x.png" crc="366228691" ref="index"/>
+    <file name="---@2x.png" crc="4270701698" seo="true" ref="index"/>
+    <file name="---@2x_2x.png" crc="4270701698" seo="true" ref="index"/>
+    <file name="u875-4.png" crc="435802983" ref="index"/>
+    <file name="u875-4_2x.png" crc="3963391343" ref="index"/>
+    <file name="u878-4.png" crc="324664575" ref="index"/>
+    <file name="u878-4_2x.png" crc="252494826" ref="index"/>
+    <file name="u881-21.png" crc="447715112" ref="index"/>
+    <file name="u881-21_2x.png" crc="4244603464" ref="index"/>
+    <file name="u860-14.png" crc="3976923967" ref="index"/>
+    <file name="u860-14_2x.png" crc="230632711" ref="index"/>
+    <file name="u863-12.png" crc="30568598" ref="index"/>
+    <file name="u863-12_2x.png" crc="363094927" ref="index"/>
+    <file name="u904-4.png" crc="44580171" ref="index"/>
+    <file name="u904-4_2x.png" crc="4187633737" ref="index"/>
+    <file name="u907-4.png" crc="3884000772" ref="index"/>
+    <file name="u907-4_2x.png" crc="300680756" ref="index"/>
+    <file name="u910-4.png" crc="4161207634" ref="index"/>
+    <file name="u910-4_2x.png" crc="4171418083" ref="index"/>
+    <file name="u913-4.png" crc="215049413" ref="index"/>
+    <file name="u913-4_2x.png" crc="434152561" ref="index"/>
+    <file name="u916-4.png" crc="3912071536" ref="index"/>
+    <file name="u916-4_2x.png" crc="131169551" ref="index"/>
+    <file name="u891-4.png" crc="3983422913" ref="index"/>
+    <file name="u891-4_2x.png" crc="486962300" ref="index"/>
+    <file name="bishe@2x.png" crc="336087784" seo="true" ref="index"/>
+    <file name="bishe@2x_2x.png" crc="3945931603" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4227218169" seo="true" mt="1528426121793" redirect="true"/>
+</manifest>
